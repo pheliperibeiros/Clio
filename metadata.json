@@ -1,0 +1,11 @@
+{
+  "name": "Remix OitivaFlow - Gravador Automatizado de Oitivas e Audiências",
+  "description": "Sistema institucional e ultraleve de gravação de oitivas e audiências com reconhecimento automático de câmeras, estampa probatória no vídeo, gravação tolerante a falhas e emissão de extrato em PDF com hash SHA-256.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
